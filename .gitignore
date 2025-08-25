@@ -1,2 +1,21 @@
 
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environments and local configuration
+.env
+.venv/
+env/
+venv/
+
+# Editor directories and OS files
+.vscode/
+.DS_Store
+
+# Project data
+vector_store/
+
+# Notebooks
 *.ipynb
+

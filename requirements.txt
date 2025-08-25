@@ -3,3 +3,4 @@ langchain
 streamlit
 beautifulsoup4
 faiss-cpu
+requests
