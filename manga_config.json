@@ -1,0 +1,6 @@
+{
+  "one_piece": "https://onepiece.fandom.com/wiki/Chapter_{}",
+  "naruto": "https://naruto.fandom.com/wiki/Chapter_{}",
+  "boruto": "https://boruto.fandom.com/wiki/Chapter_{}",
+  "jjk": "https://jujutsu-kaisen.fandom.com/wiki/Chapter_{}"
+}
